@@ -26,9 +26,15 @@ Index # | Story title | License
 0001 | [A very tall man](http://africanstorybook.org/reader.php?id=918) | [CC BY](http://creativecommons.org/licenses/by/3.0/)
 0002 | [Look at the animals](http://africanstorybook.org/reader.php?id=1221) | [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0003 | [School clothes](http://africanstorybook.org/reader.php?id=1794) | [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0004 | [Goat, Dog and Cow](http://africanstorybook.org/reader.php?id=6380) | [CC BY](http://creativecommons.org/licenses/by/3.0/)
+0009 | [Where is my cat?](http://africanstorybook.org/reader.php?id=1825) | [CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0030 | [Feelings](http://africanstorybook.org/reader.php?id=2884) | [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0067 | [Cooking](http://africanstorybook.org/reader.php?id=2795) | [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0112 | [My body](http://africanstorybook.org/reader.php?id=1790) | [CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0120 | [Hair](http://africanstorybook.org/reader.php?id=1746) | [CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0129 | [Lazy little brother](http://africanstorybook.org/reader.php?id=2896) | [CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0210 | [Tingi and the cows](http://africanstorybook.org/reader.php?id=7441) | [CC BY](http://creativecommons.org/licenses/by/3.0/)
 0231 | [Weather book](http://africanstorybook.org/reader.php?id=1861) | [CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0296 | [Tom the banana seller](http://africanstorybook.org/reader.php?id=13627) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 
 Unless otherwise noted above, all other content in this repository is released under a CC BY 3.0 license.
